@@ -1,4 +1,3 @@
-https://sanj-cf177-default-rtdb.firebaseio.com
 https://mysiteheavdone972jsjs-default-rtdb.firebaseio.com
 https://hahajj-8c5ab-default-rtdb.firebaseio.com
 https://oct-2733d-default-rtdb.firebaseio.com
